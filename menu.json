@@ -1,0 +1,225 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "Tandoori Vegetable Platter",
+  "image": "",
+  "price": "350"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Mezze Platter",
+  "image": "",
+  "price": "350"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "Cheese Platter",
+  "image": "",
+  "price": "300"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Sandwich Platter",
+  "image": "",
+  "price": "300"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Spaghetti Napolitan",
+  "image": "",
+  "price": "290"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Peene Arrabbiat",
+  "image": "",
+  "price": "290"
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "Penne with Mushroom and Blue Cheese  ",
+  "image": "",
+  "price": "350"
+},{
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "White Sauce Pasta",
+  "image": "",
+  "price": "350"
+},{
+  "_id": {
+    "$oid": "5fba36ae93382e024d722ae8"
+  },
+  "name": "Napolitana",
+  "image": "",
+  "price": "270"
+},{
+  "_id": {
+    "$oid": "5fba36c893382e024d722ae9"
+  },
+  "name": "Margherita",
+  "image": "",
+  "price": "300"
+},{
+  "_id": {
+    "$oid": "5fba36db93382e024d722aea"
+  },
+  "name": "Veggie Pizza",
+  "image": "",
+  "price": "325"
+},{
+  "_id": {
+    "$oid": "5fba36f193382e024d722aeb"
+  },
+  "name": "Four seasons Pizza",
+  "image": "",
+  "price": "375"
+},{
+  "_id": {
+    "$oid": "5fba370f93382e024d722aec"
+  },
+  "name": "French Fries",
+  "image": "",
+  "price": "270"
+},{
+  "_id": {
+    "$oid": "5fba372293382e024d722aed"
+  },
+  "name": "Peri Peri Fries",
+  "image": "",
+  "price": "300"
+},{
+  "_id": {
+    "$oid": "5fba373993382e024d722aee"
+  },
+  "name": "Chilli Potato",
+  "image": "",
+  "price": "325"
+},{
+  "_id": {
+    "$oid": "5fba374d93382e024d722aef"
+  },
+  "name": "Jacket Potatoes",
+  "image": "",
+  "price": "375"
+},{
+  "_id": {
+    "$oid": "5fba442093382e024d722af0"
+  },
+  "name": "Plain Naan",
+  "image": "",
+  "price": "25"
+},{
+  "_id": {
+    "$oid": "5fba444293382e024d722af1"
+  },
+  "name": "Butter Naan",
+  "image": "",
+  "price": "30"
+},{
+  "_id": {
+    "$oid": "5fba445e93382e024d722af2"
+  },
+  "name": "Tandoori Roti",
+  "image": "",
+  "price": "25 "
+},{
+  "_id": {
+    "$oid": "5fba446f93382e024d722af3"
+  },
+  "name": "Rumali Roti",
+  "image": "",
+  "price": "30"
+},{
+  "_id": {
+    "$oid": "5fba448393382e024d722af4"
+  },
+  "name": "Shahi Paneer",
+  "image": "",
+  "price": "190"
+},{
+  "_id": {
+    "$oid": "5fba44d693382e024d722af5"
+  },
+  "name": "Kadhai Paneer",
+  "image": "",
+  "price": "170"
+},{
+  "_id": {
+    "$oid": "5fba44fd93382e024d722af6"
+  },
+  "name": "Dal Makhani",
+  "image": "",
+  "price": "210"
+},{
+  "_id": {
+    "$oid": "5fba450d93382e024d722af7"
+  },
+  "name": "Dal Punjabi",
+  "image": "",
+  "price": "200"
+},{
+  "_id": {
+    "$oid": "5fba462293382e024d722af8"
+  },
+  "name": "Virgin Mojito",
+  "image": "",
+  "price": "130"
+},{
+  "_id": {
+    "$oid": "5fba463893382e024d722af9"
+  },
+  "name": "Blue Lagoon",
+  "image": "",
+  "price": "120"
+},{
+  "_id": {
+    "$oid": "5fba466e93382e024d722afa"
+  },
+  "name": "Spicy Virgin Tamarind",
+  "image": "",
+  "price": "140"
+},{
+  "_id": {
+    "$oid": "5fba469393382e024d722afb"
+  },
+  "name": "Blackberry",
+  "image": "",
+  "price": "130"
+},{
+  "_id": {
+    "$oid": "5fba46ab93382e024d722afc"
+  },
+  "name": "Chocolate Mousse",
+  "image": "",
+  "price": "130"
+},{
+  "_id": {
+    "$oid": "5fba46c093382e024d722afd"
+  },
+  "name": "Blueberry Cheesecake",
+  "image": "",
+  "price": "120"
+},{
+  "_id": {
+    "$oid": "5fba46d593382e024d722afe"
+  },
+  "name": "Truffle Cake ",
+  "image": "",
+  "price": "140"
+},{
+  "_id": {
+    "$oid": "5fba46e893382e024d722aff"
+  },
+  "name": "Chocolate Fudge Brownies",
+  "image": "",
+  "price": "130"
+}]

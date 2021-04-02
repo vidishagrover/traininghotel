@@ -1,0 +1,18 @@
+
+<section>
+    <h1 id="menu">MENU</h1>
+<div class="row">
+    <% food.forEach(function(food){ %>
+    <div class="col-6 col-lg-3">
+      <div class="card mcont">
+        <div class="card-body ">
+            <img class="food-image" src="/img/<%= food.image %>">
+          <h5 class="card-title"><%= food.name %></h5>
+          <h3 class="price">Rs. <%= food.price %></h3>
+        </div>
+      </div>
+    </div>
+    <% }) %>
+</section>
+        <!-- food.forEach  here food is the key mentioned in controller -->
+        <!-- where function(food) is just random parameter -->
